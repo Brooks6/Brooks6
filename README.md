@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [twitter](https://twitter.com/BrooksM99614705)
 - [facebook](https://www.facebook.com/brooks.liu.792)
-- [instagram]()
+- [instagram](https://www.instagram.com/brooks_liu_1996/)
 - [sina](https://weibo.com/u/5556368644)
 <!-- BLOG-POST-LIST:END -->
 
