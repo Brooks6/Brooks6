@@ -3,7 +3,7 @@
 
 ### 🤵 About Me:
 - 🌟 A graduate of the University of Sydney, majoring in information technology.
-- 🏦<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently starting my own business as a full-stack engineer.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently starting my own business as a full-stack engineer.
 - 🤔 I use daily ```java```,``` python```, ```noSQL```, ```javascript```, ```css```
 - 🌱 How to reach me **liuhongzhang1996@163.com**
 - ⚡ Sidere mens eadem mutato.
